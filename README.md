@@ -37,19 +37,19 @@ Antes de começar, certifique-se de ter uma conta ativa no Azure.
 - Acesse o Explorador de Consulta no painel esquerdo.
 - Execute uma busca simples, teste diferentes filtros e consultas para avaliar os resultados.
 
-#💡 Possibilidades e Insights Obtidos
-- 📚 Busca Inteligente: O Azure Cognitive Search permite pesquisas rápidas e precisas em grandes volumes de dados.
-- 🔍 Relevância Ajustável: Personalize os filtros para obter resultados mais relevantes.
-- ⚡ Integração Rápida: Pode ser integrado em e-commerces, portais de notícias, aplicações de atendimento ao cliente e muito mais.
+# Possibilidades e Insights Obtidos
+-  Busca Inteligente: O Azure Cognitive Search permite pesquisas rápidas e precisas em grandes volumes de dados.
+-  Relevância Ajustável: Personalize os filtros para obter resultados mais relevantes.
+-  Integração Rápida: Pode ser integrado em e-commerces, portais de notícias, aplicações de atendimento ao cliente e muito mais.
 
-# ⁉️ Como o Azure Cognitive Search Traz Resultados Rápidos e Precisos?
+#  Como o Azure Cognitive Search Traz Resultados Rápidos e Precisos?
 O Azure Cognitive Search utiliza diversas técnicas e tecnologias para garantir que as pesquisas sejam rápidas e precisas, independentemente do volume de dados processado. As principais técnicas são:
 
-## 🔍 1. Indexação Otimizada para Busca Instantânea
+##  1. Indexação Otimizada para Busca Instantânea
 - Os dados são pré-processados e organizados em índices de pesquisa, permitindo buscas rápidas sem a necessidade de varrer toda a base de dados.
 
-## 🧠 2. Inteligência Artificial e Habilidades Cognitivas
+##  2. Inteligência Artificial e Habilidades Cognitivas
 - Utiliza IA para enriquecer os dados, aplicando extração de entidades, análise de sentimentos e tradução automática.
-# 🎓 Aprendizados Adquiridos
-- 🔹 Indexação Eficiente: Criar um índice bem estruturado melhora a precisão das buscas.
-- 🔹 Monitoramento Contínuo: É importante ajustar parâmetros de pesquisa para acompanhar mudanças nos dados.
+#  Aprendizados Adquiridos
+-  Indexação Eficiente: Criar um índice bem estruturado melhora a precisão das buscas.
+-  Monitoramento Contínuo: É importante ajustar parâmetros de pesquisa para acompanhar mudanças nos dados.
